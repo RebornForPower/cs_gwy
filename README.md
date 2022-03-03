@@ -14,3 +14,10 @@
 - 其他计算机相关问题的讨论（技术向问题也可以在群里讨论交流）
 
 **WARNING：任何过激言论，不当言论以及违法行为在群里都是不被容忍度，一经发现，踢出群聊，希望大家的理解与支持！**
+
+QQ群问题答案：互帮互助共同进步
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RebornForPower/cs_gwy/main/qq.JPG"  height="300">  &emsp;  &emsp;
+  <img src="https://raw.githubusercontent.com/RebornForPower/cs_gwy/main/weixin.JPG"  height="300">
+</p>
