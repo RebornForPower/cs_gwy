@@ -20,6 +20,6 @@
 QQ群问题答案：互帮互助共同进步
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RebornForPower/cs_gwy/main/qq.JPG"  height="300">  &emsp;  &emsp;
+  <img src="https://raw.githubusercontent.com/RebornForPower/cs_gwy/main/qq.JPG"  height="300">  &emsp;  &emsp;&emsp;  &emsp;&emsp;  &emsp;&emsp;  &emsp;&emsp;  &emsp;
   <img src="https://raw.githubusercontent.com/RebornForPower/cs_gwy/main/weixin.JPG"  height="300">
 </p>
